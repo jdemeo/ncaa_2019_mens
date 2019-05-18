@@ -1,0 +1,850 @@
+Team1,Team1_Score,Team2,Team2_Score,Winner,Year
+NC A&T,73,Liberty,72,Team1,2013
+St Mary's CA,67,MTSU,54,Team1,2013
+Maryland,86,Niagara,70,Team1,2013
+St John's,63,St Joseph's PA,61,Team1,2013
+Louisiana Tech,71,Florida St,66,Team1,2013
+Robert Morris,59,Kentucky,57,Team1,2013
+Virginia,67,Norfolk St,56,Team1,2013
+Alabama,62,Northeastern,43,Team1,2013
+Denver,61,Ohio,57,Team1,2013
+BYU,90,Washington,79,Team1,2013
+Stanford,58,SF Austin,57,Team1,2013
+George Mason,78,Col Charleston,77,Team1,2013
+Wyoming,67,Lehigh,66,Team1,2013
+Santa Clara,77,Vermont,67,Team1,2013
+Rider,63,Hartford,54,Team1,2013
+East Carolina,66,Savannah St,65,Team1,2013
+E Kentucky,69,Gardner Webb,62,Team1,2013
+Youngstown St,99,Oakland,87,Team1,2013
+Loyola MD,70,Boston Univ,63,Team1,2013
+Evansville,84,Tennessee St,72,Team1,2013
+James Madison,68,LIU Brooklyn,55,Team1,2013
+La Salle,80,Boise St,71,Team1,2013
+Iowa,68,Indiana St,52,Team1,2013
+Stony Brook,71,Massachusetts,58,Team1,2013
+Providence,75,Charlotte,66,Team1,2013
+Mercer,75,Tennessee,67,Team1,2013
+Baylor,112,Long Beach St,66,Team1,2013
+Southern Miss,78,Charleston So,71,Team1,2013
+Arizona St,83,Detroit,68,Team1,2013
+Purdue,81,W Illinois,67,Team1,2013
+W Michigan,72,N Dakota St,71,Team1,2013
+Wright St,72,Tulsa,52,Team1,2013
+Richmond,76,Bryant,71,Team1,2013
+Houston,73,Texas,72,Team1,2013
+Canisius,69,Elon,53,Team1,2013
+Kent,73,Fairfield,71,Team1,2013
+Bradley,75,WI Green Bay,69,Team1,2013
+IL Chicago,80,Chicago St,69,Team1,2013
+Northern Iowa,77,North Dakota,66,Team1,2013
+Tulane,84,South Alabama,73,Team1,2013
+Oral Roberts,84,UT Arlington,76,Team1,2013
+Weber St,85,Cal Poly,43,Team1,2013
+UC Irvine,80,High Point,71,Team1,2013
+Air Force,69,Hawaii,65,Team1,2013
+Michigan St,65,Valparaiso,54,Team1,2013
+Butler,68,Bucknell,56,Team1,2013
+Wichita St,73,Pittsburgh,55,Team1,2013
+St Louis,64,New Mexico St,44,Team1,2013
+Memphis,54,St Mary's CA,52,Team1,2013
+Marquette,59,Davidson,58,Team1,2013
+Gonzaga,64,Southern Univ,58,Team1,2013
+Oregon,68,Oklahoma St,55,Team1,2013
+Louisville,79,NC A&T,48,Team1,2013
+Michigan,71,S Dakota St,56,Team1,2013
+Arizona,81,Belmont,64,Team1,2013
+California,64,UNLV,61,Team1,2013
+Colorado St,84,Missouri,72,Team1,2013
+VA Commonwealth,88,Akron,42,Team1,2013
+Harvard,68,New Mexico,62,Team1,2013
+Syracuse,81,Montana,34,Team1,2013
+Maryland,62,Denver,52,Team1,2013
+Duke,73,Albany NY,61,Team1,2013
+Mississippi,57,Wisconsin,46,Team1,2013
+Temple,76,NC State,72,Team1,2013
+Miami FL,78,Pacific,49,Team1,2013
+Creighton,67,Cincinnati,63,Team1,2013
+La Salle,63,Kansas St,61,Team1,2013
+Indiana,83,James Madison,62,Team1,2013
+Illinois,57,Colorado,49,Team1,2013
+FL Gulf Coast,78,Georgetown,68,Team1,2013
+Ohio St,95,Iona,70,Team1,2013
+North Carolina,78,Villanova,71,Team1,2013
+Florida,79,Northwestern LA,47,Team1,2013
+San Diego St,70,Oklahoma,55,Team1,2013
+Iowa St,76,Notre Dame,58,Team1,2013
+Kansas,64,WKU,57,Team1,2013
+Minnesota,83,UCLA,63,Team1,2013
+Baylor,89,Arizona St,86,Team1,2013
+Iowa,75,Stony Brook,63,Team1,2013
+Michigan,78,VA Commonwealth,53,Team1,2013
+Michigan St,70,Memphis,48,Team1,2013
+Louisville,82,Colorado St,56,Team1,2013
+Arizona,74,Harvard,51,Team1,2013
+Oregon,74,St Louis,57,Team1,2013
+Marquette,74,Butler,72,Team1,2013
+Wichita St,76,Gonzaga,70,Team1,2013
+Syracuse,66,California,60,Team1,2013
+Alabama,66,Stanford,54,Team1,2013
+Evansville,86,E Kentucky,72,Team1,2013
+East Carolina,75,Rider,54,Team1,2013
+Canisius,84,Youngstown St,82,Team1,2013
+Bradley,77,Tulane,72,Team1,2013
+Northern Iowa,63,IL Chicago,51,Team1,2013
+Weber St,78,Air Force,57,Team1,2013
+Virginia,68,St John's,50,Team1,2013
+Loyola MD,73,Kent,59,Team1,2013
+Indiana,58,Temple,52,Team1,2013
+Kansas,70,North Carolina,58,Team1,2013
+Florida,78,Minnesota,64,Team1,2013
+FL Gulf Coast,81,San Diego St,71,Team1,2013
+La Salle,76,Mississippi,74,Team1,2013
+Miami FL,63,Illinois,59,Team1,2013
+Duke,66,Creighton,50,Team1,2013
+Ohio St,78,Iowa St,75,Team1,2013
+Providence,77,Robert Morris,68,Team1,2013
+BYU,90,Mercer,71,Team1,2013
+Southern Miss,63,Louisiana Tech,52,Team1,2013
+George Mason,88,Houston,84,Team1,2013
+Santa Clara,86,Purdue,83,Team1,2013
+Wright St,57,Richmond,51,Team1,2013
+W Michigan,75,Wyoming,67,Team1,2013
+Oral Roberts,76,UC Irvine,62,Team1,2013
+Maryland,58,Alabama,57,Team1,2013
+East Carolina,70,Loyola MD,58,Team1,2013
+Evansville,84,Canisius,83,Team1,2013
+Northern Iowa,90,Bradley,77,Team1,2013
+Iowa,75,Virginia,64,Team1,2013
+BYU,79,Southern Miss,62,Team1,2013
+Baylor,79,Providence,68,Team1,2013
+George Mason,62,W Michigan,52,Team1,2013
+Santa Clara,81,Wright St,69,Team1,2013
+Weber St,83,Oral Roberts,74,Team1,2013
+Ohio St,73,Arizona,70,Team1,2013
+Marquette,71,Miami FL,61,Team1,2013
+Syracuse,61,Indiana,50,Team1,2013
+Wichita St,72,La Salle,58,Team1,2013
+Louisville,77,Oregon,69,Team1,2013
+Michigan,87,Kansas,85,Team1,2013
+Duke,71,Michigan St,61,Team1,2013
+Florida,62,FL Gulf Coast,50,Team1,2013
+Syracuse,55,Marquette,39,Team1,2013
+Wichita St,70,Ohio St,66,Team1,2013
+East Carolina,81,Evansville,58,Team1,2013
+Weber St,59,Northern Iowa,56,Team1,2013
+Michigan,79,Florida,59,Team1,2013
+Louisville,85,Duke,63,Team1,2013
+Santa Clara,81,George Mason,73,Team1,2013
+Baylor,76,BYU,70,Team1,2013
+Iowa,71,Maryland,60,Team1,2013
+East Carolina,77,Weber St,74,Team1,2013
+George Mason,73,Santa Clara,66,Team1,2013
+Baylor,74,Iowa,54,Team1,2013
+Santa Clara,80,George Mason,77,Team1,2013
+Louisville,72,Wichita St,68,Team1,2013
+Michigan,61,Syracuse,56,Team1,2013
+Louisville,82,Michigan,76,Team1,2013
+Robert Morris,89,St John's,78,Team1,2014
+Florida St,58,FL Gulf Coast,53,Team1,2014
+Georgetown,77,West Virginia,65,Team1,2014
+Belmont,80,WI Green Bay,65,Team1,2014
+Minnesota,88,High Point,81,Team1,2014
+Arkansas,91,Indiana St,71,Team1,2014
+Clemson,78,Georgia St,66,Team1,2014
+Missouri,85,Davidson,77,Team1,2014
+St Mary's CA,70,Utah,58,Team1,2014
+Siena,66,Stony Brook,55,Team1,2014
+Sam Houston St,71,Alabama St,49,Team1,2014
+VMI,111,Canisius,100,Team1,2014
+Wright St,73,East Carolina,59,Team1,2014
+E Michigan,58,Norfolk St,54,Team1,2014
+ETSU,79,Chattanooga,66,Team1,2014
+Columbia,58,Valparaiso,56,Team1,2014
+San Diego,87,Portland St,65,Team1,2014
+Albany NY,71,Mt St Mary's,64,Team1,2014
+NC State,74,Xavier,59,Team1,2014
+Illinois,66,Boston Univ,62,Team1,2014
+Louisiana Tech,89,Iona,88,Team1,2014
+Georgia,63,Vermont,56,Team1,2014
+Southern Miss,66,Toledo,59,Team1,2014
+SMU,68,UC Irvine,54,Team1,2014
+LSU,71,San Francisco,63,Team1,2014
+California,77,Utah Valley,64,Team1,2014
+Princeton,56,Tulane,55,Team1,2014
+Penn St,69,Hampton,65,Team1,2014
+Radford,96,Oregon St,92,Team1,2014
+Old Dominion,72,S Dakota St,65,Team1,2014
+Texas A&M,59,Wyoming,43,Team1,2014
+Illinois St,77,Morehead St,67,Team1,2014
+Fresno St,61,UTEP,56,Team1,2014
+TAM C. Christi,82,N Colorado,71,Team1,2014
+Yale,69,Quinnipiac,68,Team1,2014
+Towson,63,SC Upstate,60,Team1,2014
+Ohio,64,Cleveland St,62,Team1,2014
+PFW,97,Akron,91,Team1,2014
+NE Omaha,91,North Dakota,75,Team1,2014
+Murray St,66,Missouri St,63,Team1,2014
+Pacific,69,Grand Canyon,67,Team1,2014
+Tennessee,78,Iowa,65,Team1,2014
+Cal Poly,81,TX Southern,69,Team1,2014
+Dayton,60,Ohio St,59,Team1,2014
+Syracuse,77,W Michigan,53,Team1,2014
+Connecticut,89,St Joseph's PA,81,Team1,2014
+Villanova,73,WI Milwaukee,53,Team1,2014
+Pittsburgh,77,Colorado,48,Team1,2014
+Louisville,71,Manhattan,64,Team1,2014
+Oregon,87,BYU,68,Team1,2014
+Wisconsin,75,American Univ,35,Team1,2014
+Texas,87,Arizona St,85,Team1,2014
+Michigan,57,Wofford,40,Team1,2014
+Harvard,61,Cincinnati,57,Team1,2014
+Michigan St,93,Delaware,78,Team1,2014
+N Dakota St,80,Oklahoma,75,Team1,2014
+San Diego St,73,New Mexico St,69,Team1,2014
+Florida,67,Albany NY,55,Team1,2014
+St Louis,83,NC State,80,Team1,2014
+Mercer,78,Duke,71,Team1,2014
+Virginia,70,Coastal Car,59,Team1,2014
+Memphis,71,G Washington,66,Team1,2014
+Stanford,58,New Mexico,53,Team1,2014
+Kansas,80,E Kentucky,69,Team1,2014
+Kentucky,56,Kansas St,49,Team1,2014
+Baylor,74,Nebraska,60,Team1,2014
+Creighton,76,Louisiana,66,Team1,2014
+North Carolina,79,Providence,77,Team1,2014
+Iowa St,93,NC Central,75,Team1,2014
+SF Austin,77,VA Commonwealth,75,Team1,2014
+UCLA,76,Tulsa,59,Team1,2014
+Arizona,68,Weber St,59,Team1,2014
+Gonzaga,85,Oklahoma St,77,Team1,2014
+Tennessee,86,Massachusetts,67,Team1,2014
+Towson,83,ETSU,77,Team1,2014
+Wichita St,64,Cal Poly,37,Team1,2014
+Belmont,82,Robert Morris,71,Team1,2014
+Louisiana Tech,79,Georgia,71,Team1,2014
+Florida,61,Pittsburgh,45,Team1,2014
+VMI,106,PFW,95,Team1,2014
+Ohio,56,Wright St,54,Team1,2014
+Louisville,66,St Louis,51,Team1,2014
+Michigan,79,Texas,65,Team1,2014
+San Diego St,63,N Dakota St,44,Team1,2014
+San Diego,77,Sam Houston St,72,Team1,2014
+Columbia,69,E Michigan,56,Team1,2014
+Yale,71,Holy Cross,66,Team1,2014
+Dayton,55,Syracuse,53,Team1,2014
+Wisconsin,85,Oregon,77,Team1,2014
+Michigan St,80,Harvard,73,Team1,2014
+Pacific,89,TAM C. Christi,60,Team1,2014
+Connecticut,77,Villanova,65,Team1,2014
+Clemson,50,Illinois,49,Team1,2014
+Stanford,60,Kansas,57,Team1,2014
+Kentucky,78,Wichita St,76,Team1,2014
+Minnesota,63,St Mary's CA,55,Team1,2014
+Southern Miss,71,Missouri,63,Team1,2014
+Iowa St,85,North Carolina,83,Team1,2014
+Tennessee,83,Mercer,63,Team1,2014
+UCLA,77,SF Austin,60,Team1,2014
+Baylor,85,Creighton,55,Team1,2014
+Virginia,78,Memphis,60,Team1,2014
+Arizona,84,Gonzaga,61,Team1,2014
+Florida St,101,Georgetown,90,Team1,2014
+SMU,80,LSU,67,Team1,2014
+California,75,Arkansas,64,Team1,2014
+Old Dominion,82,Radford,59,Team1,2014
+Siena,54,Penn St,52,Team1,2014
+Illinois St,62,Texas A&M,55,Team1,2014
+Fresno St,72,Princeton,56,Team1,2014
+Murray St,86,NE Omaha,62,Team1,2014
+Clemson,73,Belmont,68,Team1,2014
+Minnesota,81,Southern Miss,73,Team1,2014
+Yale,72,Columbia,69,Team1,2014
+Pacific,75,San Diego,60,Team1,2014
+Florida St,78,Louisiana Tech,75,Team1,2014
+Siena,61,Illinois St,49,Team1,2014
+VMI,92,Ohio,90,Team1,2014
+SMU,67,California,65,Team1,2014
+Fresno St,71,Old Dominion,64,Team1,2014
+Florida,79,UCLA,68,Team1,2014
+Dayton,82,Stanford,72,Team1,2014
+Wisconsin,69,Baylor,52,Team1,2014
+Arizona,70,San Diego St,64,Team1,2014
+Murray St,85,Towson,73,Team1,2014
+Connecticut,81,Iowa St,76,Team1,2014
+Michigan,73,Tennessee,71,Team1,2014
+Kentucky,74,Louisville,69,Team1,2014
+Michigan St,61,Virginia,59,Team1,2014
+Florida,62,Dayton,52,Team1,2014
+Wisconsin,64,Arizona,63,Team1,2014
+Connecticut,60,Michigan St,54,Team1,2014
+Kentucky,75,Michigan,72,Team1,2014
+Siena,61,Fresno St,57,Team1,2014
+Yale,75,VMI,62,Team1,2014
+Murray St,98,Pacific,75,Team1,2014
+SMU,65,Clemson,59,Team1,2014
+Minnesota,67,Florida St,64,Team1,2014
+Fresno St,89,Siena,75,Team1,2014
+Minnesota,65,SMU,63,Team1,2014
+Murray St,65,Yale,57,Team1,2014
+Connecticut,63,Florida,53,Team1,2014
+Kentucky,74,Wisconsin,73,Team1,2014
+Siena,81,Fresno St,68,Team1,2014
+Connecticut,60,Kentucky,54,Team1,2014
+Hampton,74,Manhattan,64,Team1,2015
+Mississippi,94,BYU,90,Team1,2015
+Rhode Island,88,Iona,75,Team1,2015
+Miami FL,75,NC Central,71,Team1,2015
+G Washington,60,Pittsburgh,54,Team1,2015
+Louisiana Tech,89,C Michigan,79,Team1,2015
+Tulsa,70,William & Mary,67,Team1,2015
+Alabama,79,Illinois,58,Team1,2015
+Murray St,81,UTEP,66,Team1,2015
+Texas A&M,81,Montana,64,Team1,2015
+Stanford,77,UC Davis,64,Team1,2015
+Loyola-Chicago,62,Rider,59,Team1,2015
+E Illinois,97,Oakland,91,Team1,2015
+SC Upstate,73,James Madison,72,Team1,2015
+Bowling Green,67,St Francis PA,64,Team1,2015
+E Kentucky,81,Norfolk St,75,Team1,2015
+Louisiana,83,Incarnate Word,68,Team1,2015
+Robert Morris,81,North Florida,77,Team1,2015
+Dayton,56,Boise St,55,Team1,2015
+Temple,73,Bucknell,67,Team1,2015
+Arizona St,68,Connecticut,61,Team1,2015
+Old Dominion,65,Charleston So,56,Team1,2015
+Richmond,84,St Francis NY,74,Team1,2015
+Illinois St,69,WI Green Bay,56,Team1,2015
+Vanderbilt,75,St Mary's CA,64,Team1,2015
+S Dakota St,86,Colorado St,76,Team1,2015
+Oral Roberts,91,UC Santa Barbara,87,Team1,2015
+Mercer,72,Stony Brook,70,Team1,2015
+Vermont,85,Hofstra,81,Team1,2015
+ULM,71,E Michigan,67,Team1,2015
+Radford,78,Delaware St,57,Team1,2015
+Colorado,87,Gardner Webb,78,Team1,2015
+Seattle,62,Pepperdine,45,Team1,2015
+High Point,70,MD E Shore,64,Team1,2015
+Canisius,87,Dartmouth,72,Team1,2015
+TAM C. Christi,75,FL Gulf Coast,69,Team1,2015
+Cleveland St,86,W Michigan,57,Team1,2015
+Kent,68,MTSU,56,Team1,2015
+Evansville,82,PFW,77,Team1,2015
+Sam Houston St,87,UNC Wilmington,71,Team1,2015
+Northern Arizona,75,Grand Canyon,70,Team1,2015
+CS Sacramento,73,Portland,66,Team1,2015
+Notre Dame,69,Northeastern,65,Team1,2015
+UAB,60,Iowa St,59,Team1,2015
+Georgia St,57,Baylor,56,Team1,2015
+Arizona,93,TX Southern,72,Team1,2015
+Butler,56,Texas,48,Team1,2015
+UCLA,60,SMU,59,Team1,2015
+Ohio St,75,VA Commonwealth,72,Team1,2015
+Villanova,93,Lafayette,52,Team1,2015
+Cincinnati,66,Purdue,65,Team1,2015
+North Carolina,67,Harvard,65,Team1,2015
+Utah,57,SF Austin,50,Team1,2015
+NC State,66,LSU,65,Team1,2015
+Arkansas,56,Wofford,53,Team1,2015
+Georgetown,84,E Washington,74,Team1,2015
+TN Martin,104,Northwestern LA,79,Team1,2015
+Xavier,76,Mississippi,57,Team1,2015
+Kentucky,79,Hampton,56,Team1,2015
+Kansas,75,New Mexico St,56,Team1,2015
+Michigan St,70,Georgia,63,Team1,2015
+Northern Iowa,71,Wyoming,54,Team1,2015
+West Virginia,68,Buffalo,62,Team1,2015
+Wichita St,81,Indiana,76,Team1,2015
+Virginia,79,Belmont,67,Team1,2015
+Louisville,57,UC Irvine,55,Team1,2015
+Maryland,65,Valparaiso,62,Team1,2015
+Oregon,79,Oklahoma St,73,Team1,2015
+Iowa,83,Davidson,52,Team1,2015
+Oklahoma,69,Albany NY,60,Team1,2015
+Wisconsin,86,Coastal Car,72,Team1,2015
+San Diego St,76,St John's,64,Team1,2015
+Gonzaga,86,N Dakota St,76,Team1,2015
+Duke,85,Robert Morris,56,Team1,2015
+Dayton,66,Providence,53,Team1,2015
+Vanderbilt,92,S Dakota St,77,Team1,2015
+E Kentucky,66,High Point,65,Team1,2015
+UCLA,92,UAB,75,Team1,2015
+Kentucky,64,Cincinnati,51,Team1,2015
+Arizona,73,Ohio St,58,Team1,2015
+Xavier,75,Georgia St,67,Team1,2015
+NC State,71,Villanova,68,Team1,2015
+Utah,75,Georgetown,64,Team1,2015
+North Carolina,87,Arkansas,78,Team1,2015
+Notre Dame,67,Butler,64,Team1,2015
+Miami FL,73,Alabama,66,Team1,2015
+Canisius,82,Bowling Green,59,Team1,2015
+Louisiana,71,Sam Houston St,70,Team1,2015
+TN Martin,60,SC Upstate,49,Team1,2015
+Northern Arizona,78,CS Sacramento,73,Team1,2015
+Temple,90,G Washington,77,Team1,2015
+Richmond,76,Arizona St,70,Team1,2015
+Stanford,74,Rhode Island,65,Team1,2015
+Michigan St,60,Virginia,54,Team1,2015
+Duke,68,San Diego St,49,Team1,2015
+Wichita St,78,Kansas,65,Team1,2015
+Oklahoma,72,Dayton,66,Team1,2015
+Gonzaga,87,Iowa,68,Team1,2015
+Wisconsin,72,Oregon,65,Team1,2015
+West Virginia,69,Maryland,59,Team1,2015
+Louisville,66,Northern Iowa,53,Team1,2015
+Louisiana Tech,84,Texas A&M,72,Team1,2015
+Old Dominion,50,Illinois St,49,Team1,2015
+Murray St,83,Tulsa,62,Team1,2015
+Vermont,78,Radford,71,Team1,2015
+ULM,71,Mercer,69,Team1,2015
+Loyola-Chicago,86,Oral Roberts,78,Team1,2015
+Seattle,72,Colorado,65,Team1,2015
+NJIT,80,Cleveland St,77,Team1,2015
+Evansville,83,E Illinois,68,Team1,2015
+Kent,69,TAM C. Christi,65,Team1,2015
+Miami FL,63,Richmond,61,Team1,2015
+Stanford,78,Vanderbilt,75,Team1,2015
+Old Dominion,72,Murray St,69,Team1,2015
+Temple,77,Louisiana Tech,59,Team1,2015
+ULM,71,Vermont,65,Team1,2015
+Loyola-Chicago,63,Seattle,48,Team1,2015
+TN Martin,70,E Kentucky,69,Team1,2015
+Arizona,68,Xavier,60,Team1,2015
+Notre Dame,81,Wichita St,70,Team1,2015
+Wisconsin,79,North Carolina,72,Team1,2015
+Kentucky,78,West Virginia,39,Team1,2015
+Evansville,89,Louisiana,82,Team1,2015
+Gonzaga,74,UCLA,62,Team1,2015
+Louisville,75,NC State,65,Team1,2015
+Duke,63,Utah,57,Team1,2015
+Michigan St,62,Oklahoma,58,Team1,2015
+Northern Arizona,74,Kent,73,Team1,2015
+NJIT,78,Canisius,73,Team1,2015
+Wisconsin,85,Arizona,78,Team1,2015
+Kentucky,68,Notre Dame,66,Team1,2015
+Michigan St,76,Louisville,70,Team1,2015
+Duke,66,Gonzaga,52,Team1,2015
+Loyola-Chicago,65,ULM,58,Team1,2015
+Miami FL,60,Temple,57,Team1,2015
+Stanford,67,Old Dominion,60,Team1,2015
+Evansville,79,TN Martin,66,Team1,2015
+Northern Arizona,68,NJIT,61,Team1,2015
+Loyola-Chicago,63,ULM,62,Team1,2015
+Stanford,66,Miami FL,64,Team1,2015
+Evansville,71,Northern Arizona,65,Team1,2015
+Duke,81,Michigan St,61,Team1,2015
+Wisconsin,71,Kentucky,64,Team1,2015
+Duke,68,Wisconsin,63,Team1,2015
+FL Gulf Coast,96,F Dickinson,65,Team1,2016
+Wichita St,70,Vanderbilt,50,Team1,2016
+Florida St,84,Davidson,74,Team1,2016
+Ohio St,72,Akron,63,Team1,2016
+Morehead St,84,Siena,80,Team1,2016
+South Carolina,88,High Point,66,Team1,2016
+Creighton,72,Alabama,54,Team1,2016
+Florida,97,North Florida,68,Team1,2016
+Washington,107,Long Beach St,102,Team1,2016
+San Diego St,79,PFW,55,Team1,2016
+Valparaiso,84,TX Southern,73,Team1,2016
+St Mary's CA,58,New Mexico St,56,Team1,2016
+Coastal Car,65,Mercer,57,Team1,2016
+Furman,58,ULM,57,Team1,2016
+Ball St,78,Tennessee St,73,Team1,2016
+Holy Cross,59,Southern Univ,55,Team1,2016
+Michigan,67,Tulsa,62,Team1,2016
+Duquesne,120,NE Omaha,112,Team1,2016
+Georgia,93,Belmont,84,Team1,2016
+UNC Greensboro,69,Houston Bap,65,Team1,2016
+Ohio,94,Albany NY,90,Team1,2016
+Wagner,79,St Bonaventure,75,Team1,2016
+Vermont,79,W Carolina,74,Team1,2016
+Monmouth NJ,90,Bucknell,80,Team1,2016
+G Washington,82,Hofstra,80,Team1,2016
+Virginia Tech,86,Princeton,81,Team1,2016
+Georgia Tech,81,Houston,62,Team1,2016
+E Washington,79,Pepperdine,72,Team1,2016
+BYU,97,UAB,79,Team1,2016
+Nevada,79,Montana,75,Team1,2016
+Seattle,68,Idaho,63,Team1,2016
+Boston Univ,69,Fordham,66,Team1,2016
+TN Martin,76,C Michigan,73,Team1,2016
+New Hampshire,77,Fairfield,62,Team1,2016
+Columbia,86,Norfolk St,54,Team1,2016
+UT Arlington,75,Savannah St,59,Team1,2016
+NJIT,79,Army,65,Team1,2016
+UC Irvine,89,North Dakota,86,Team1,2016
+Louisiana,96,TAM C. Christi,72,Team1,2016
+Miami FL,79,Buffalo,72,Team1,2016
+Yale,79,Baylor,75,Team1,2016
+Duke,93,UNC Wilmington,85,Team1,2016
+Providence,70,USC,69,Team1,2016
+Virginia,81,Hampton,45,Team1,2016
+Butler,71,Texas Tech,61,Team1,2016
+Kansas,105,Austin Peay,79,Team1,2016
+Connecticut,74,Colorado,67,Team1,2016
+Indiana,99,Chattanooga,74,Team1,2016
+Kentucky,85,Stony Brook,57,Team1,2016
+Ark Little Rock,85,Purdue,83,Team1,2016
+Iowa St,94,Iona,81,Team1,2016
+Utah,80,Fresno St,69,Team1,2016
+Gonzaga,68,Seton Hall,52,Team1,2016
+Valparaiso,81,Florida St,69,Team1,2016
+North Carolina,83,FL Gulf Coast,67,Team1,2016
+Wichita St,65,Arizona,55,Team1,2016
+Grand Canyon,64,Jackson St,54,Team1,2016
+Villanova,86,UNC Asheville,56,Team1,2016
+Iowa,72,Temple,70,Team1,2016
+SF Austin,70,West Virginia,56,Team1,2016
+Oklahoma,82,CS Bakersfield,68,Team1,2016
+VA Commonwealth,75,Oregon St,67,Team1,2016
+Texas A&M,92,WI Green Bay,65,Team1,2016
+Northern Iowa,75,Texas,72,Team1,2016
+Xavier,71,Weber St,53,Team1,2016
+Wisconsin,47,Pittsburgh,43,Team1,2016
+MTSU,90,Michigan St,81,Team1,2016
+Syracuse,70,Dayton,51,Team1,2016
+Maryland,79,S Dakota St,74,Team1,2016
+Hawaii,77,California,66,Team1,2016
+St Joseph's PA,78,Cincinnati,76,Team1,2016
+Oregon,91,Holy Cross,52,Team1,2016
+BYU,80,Virginia Tech,77,Team1,2016
+Notre Dame,70,Michigan,63,Team1,2016
+Creighton,87,Wagner,54,Team1,2016
+Miami FL,65,Wichita St,57,Team1,2016
+Coastal Car,71,New Hampshire,62,Team1,2016
+Louisiana,80,Furman,72,Team1,2016
+Duke,71,Yale,64,Team1,2016
+Indiana,73,Kentucky,67,Team1,2016
+Iowa St,78,Ark Little Rock,61,Team1,2016
+Virginia,77,Butler,69,Team1,2016
+Kansas,73,Connecticut,61,Team1,2016
+Gonzaga,82,Utah,59,Team1,2016
+North Carolina,85,Providence,66,Team1,2016
+Florida,74,Ohio St,66,Team1,2016
+Villanova,87,Iowa,68,Team1,2016
+Notre Dame,76,SF Austin,75,Team1,2016
+Oklahoma,85,VA Commonwealth,81,Team1,2016
+Ball St,83,TN Martin,80,Team1,2016
+Syracuse,75,MTSU,50,Team1,2016
+Maryland,73,Hawaii,60,Team1,2016
+St Mary's CA,77,Georgia,65,Team1,2016
+Texas A&M,92,Northern Iowa,88,Team1,2016
+Wisconsin,66,Xavier,63,Team1,2016
+Oregon,69,St Joseph's PA,64,Team1,2016
+G Washington,87,Monmouth NJ,71,Team1,2016
+Morehead St,82,Duquesne,72,Team1,2016
+Ohio,72,UNC Greensboro,67,Team1,2016
+NJIT,83,Boston Univ,72,Team1,2016
+Georgia Tech,83,South Carolina,66,Team1,2016
+Nevada,85,E Washington,70,Team1,2016
+Vermont,73,Seattle,54,Team1,2016
+San Diego St,93,Washington,78,Team1,2016
+Valparaiso,60,St Mary's CA,44,Team1,2016
+BYU,88,Creighton,82,Team1,2016
+G Washington,82,Florida,77,Team1,2016
+Morehead St,77,Ohio,72,Team1,2016
+Coastal Car,60,Grand Canyon,58,Team1,2016
+Columbia,69,Ball St,67,Team1,2016
+UC Irvine,67,Louisiana,66,Team1,2016
+San Diego St,72,Georgia Tech,56,Team1,2016
+Nevada,86,Vermont,72,Team1,2016
+Villanova,92,Miami FL,69,Team1,2016
+Oklahoma,77,Texas A&M,63,Team1,2016
+Kansas,79,Maryland,63,Team1,2016
+Oregon,82,Duke,68,Team1,2016
+NJIT,63,UT Arlington,60,Team1,2016
+North Carolina,101,Indiana,86,Team1,2016
+Virginia,84,Iowa St,71,Team1,2016
+Notre Dame,61,Wisconsin,56,Team1,2016
+Syracuse,63,Gonzaga,60,Team1,2016
+Oklahoma,80,Oregon,68,Team1,2016
+Villanova,64,Kansas,59,Team1,2016
+UC Irvine,66,Coastal Car,47,Team1,2016
+Columbia,80,NJIT,65,Team1,2016
+Syracuse,68,Virginia,62,Team1,2016
+North Carolina,88,Notre Dame,74,Team1,2016
+Old Dominion,75,Tennessee Tech,59,Team1,2016
+UC Santa Barbar,70,N Illinois,63,Team1,2016
+Morehead St,86,Nevada,83,Team1,2016
+Oakland,90,Towson,72,Team1,2016
+ETSU,88,Louisiana Tech,83,Team1,2016
+Valparaiso,72,BYU,70,Team1,2016
+G Washington,65,San Diego St,46,Team1,2016
+Columbia,73,UC Irvine,67,Team1,2016
+Old Dominion,64,UC Santa Barbar,49,Team1,2016
+Oakland,104,ETSU,81,Team1,2016
+Nevada,77,Morehead St,68,Team1,2016
+Old Dominion,68,Oakland,67,Team1,2016
+G Washington,76,Valparaiso,60,Team1,2016
+Nevada,85,Morehead St,82,Team1,2016
+Villanova,95,Oklahoma,51,Team1,2016
+North Carolina,83,Syracuse,66,Team1,2016
+Villanova,77,North Carolina,74,Team1,2016
+Mt St Mary's,67,New Orleans,66,Team1,2017
+Syracuse,90,UNC Greensboro,77,Team1,2017
+St Francis PA,78,Jacksonville,76,Team1,2017
+Mississippi,91,Monmouth NJ,83,Team1,2017
+Campbell,98,Houston Bap,79,Team1,2017
+Illinois,82,Valparaiso,57,Team1,2017
+Samford,78,Canisius,74,Team1,2017
+Oakland,74,Clemson,69,Team1,2017
+Georgia Tech,75,Indiana,63,Team1,2017
+Colorado St,81,Col Charleston,74,Team1,2017
+Kansas St,95,Wake Forest,88,Team1,2017
+Richmond,71,Alabama,64,Team1,2017
+Boise St,73,Utah,68,Team1,2017
+CS Bakersfield,73,California,66,Team1,2017
+UC Davis,67,NC Central,63,Team1,2017
+Iowa,87,South Dakota,75,Team1,2017
+Belmont,78,Georgia,69,Team1,2017
+UCF,79,Colorado,74,Team1,2017
+PFW,88,Ball St,80,Team1,2017
+UMBC,88,Fairfield,83,Team1,2017
+Utah Valley,74,Ga Southern,49,Team1,2017
+Loyola MD,73,George Mason,58,Team1,2017
+Coastal Car,83,Hampton,67,Team1,2017
+G Washington,73,Toledo,69,Team1,2017
+Akron,78,Houston,75,Team1,2017
+TCU,66,Fresno St,59,Team1,2017
+TAM C. Christi,80,Georgia St,64,Team1,2017
+IL Chicago,71,Stony Brook,69,Team1,2017
+Missouri KC,92,WI Green Bay,82,Team1,2017
+Rice,85,San Francisco,76,Team1,2017
+UT Arlington,105,BYU,89,Team1,2017
+Wyoming,91,E Washington,81,Team1,2017
+USC,75,Providence,71,Team1,2017
+Illinois St,85,UC Irvine,71,Team1,2017
+Idaho,73,SF Austin,50,Team1,2017
+Texas St,70,Lamar,60,Team1,2017
+Notre Dame,60,Princeton,58,Team1,2017
+Virginia,76,UNC Wilmington,71,Team1,2017
+Butler,76,Winthrop,64,Team1,2017
+Gonzaga,66,S Dakota St,46,Team1,2017
+West Virginia,86,Bucknell,80,Team1,2017
+Florida,80,ETSU,65,Team1,2017
+MTSU,81,Minnesota,72,Team1,2017
+Northwestern,68,Vanderbilt,66,Team1,2017
+Xavier,76,Maryland,65,Team1,2017
+St Peter's,59,Albany NY,55,Team1,2017
+Furman,79,SC Upstate,57,Team1,2017
+St Mary's CA,85,VA Commonwealth,77,Team1,2017
+Purdue,80,Vermont,70,Team1,2017
+TN Martin,89,UNC Asheville,75,Team1,2017
+Florida St,86,FL Gulf Coast,80,Team1,2017
+Wisconsin,84,Virginia Tech,74,Team1,2017
+Arizona,100,North Dakota,82,Team1,2017
+Iowa St,84,Nevada,73,Team1,2017
+Weber St,80,CS Fullerton,76,Team1,2017
+Villanova,76,Mt St Mary's,56,Team1,2017
+Michigan,92,Oklahoma St,91,Team1,2017
+Baylor,91,New Mexico St,73,Team1,2017
+Arkansas,77,Seton Hall,71,Team1,2017
+Oregon,93,Iona,77,Team1,2017
+Louisville,78,Jacksonville St,63,Team1,2017
+North Carolina,103,TX Southern,64,Team1,2017
+Rhode Island,84,Creighton,72,Team1,2017
+Wichita St,64,Dayton,58,Team1,2017
+Duke,87,Troy,65,Team1,2017
+Michigan St,78,Miami FL,58,Team1,2017
+Kentucky,79,N Kentucky,70,Team1,2017
+South Carolina,93,Marquette,73,Team1,2017
+UCLA,97,Kent,80,Team1,2017
+Cincinnati,75,Kansas St,61,Team1,2017
+USC,66,SMU,65,Team1,2017
+Kansas,100,UC Davis,62,Team1,2017
+UMBC,87,St Francis PA,79,Team1,2017
+Mississippi,85,Syracuse,80,Team1,2017
+West Virginia,83,Notre Dame,71,Team1,2017
+Wisconsin,65,Villanova,62,Team1,2017
+Gonzaga,79,Northwestern,73,Team1,2017
+Xavier,91,Florida St,66,Team1,2017
+Butler,74,MTSU,65,Team1,2017
+Arizona,69,St Mary's CA,60,Team1,2017
+Florida,65,Virginia,39,Team1,2017
+Purdue,80,Iowa St,76,Team1,2017
+Georgia Tech,71,Belmont,57,Team1,2017
+TCU,94,Iowa,92,Team1,2017
+Richmond,87,Oakland,83,Team1,2017
+Michigan,73,Louisville,69,Team1,2017
+Kentucky,65,Wichita St,62,Team1,2017
+Kansas,90,Michigan St,70,Team1,2017
+North Carolina,72,Arkansas,65,Team1,2017
+Oregon,75,Rhode Island,72,Team1,2017
+Baylor,82,USC,78,Team1,2017
+South Carolina,88,Duke,81,Team1,2017
+UCLA,79,Cincinnati,67,Team1,2017
+UCF,63,Illinois St,62,Team1,2017
+Coastal Car,72,Loyola MD,63,Team1,2017
+Liberty,66,Samford,58,Team1,2017
+Campbell,73,TN Martin,56,Team1,2017
+UT Arlington,85,Akron,69,Team1,2017
+Utah Valley,85,Rice,79,Team1,2017
+IL Chicago,80,G Washington,71,Team1,2017
+TAM C. Christi,82,Weber St,73,Team1,2017
+Illinois,71,Boise St,56,Team1,2017
+Wyoming,72,Missouri KC,61,Team1,2017
+CS Bakersfield,81,Colorado St,63,Team1,2017
+Texas St,64,Idaho,55,Team1,2017
+TCU,86,Richmond,68,Team1,2017
+Georgia Tech,74,Mississippi,66,Team1,2017
+UCF,68,Illinois,58,Team1,2017
+Coastal Car,89,IL Chicago,78,Team1,2017
+CS Bakersfield,80,UT Arlington,76,Team1,2017
+Wyoming,74,Utah Valley,68,Team1,2017
+Oregon,69,Michigan,68,Team1,2017
+Gonzaga,61,West Virginia,58,Team1,2017
+Kansas,98,Purdue,66,Team1,2017
+Xavier,73,Arizona,71,Team1,2017
+North Carolina,92,Butler,80,Team1,2017
+South Carolina,70,Baylor,50,Team1,2017
+Kentucky,86,UCLA,75,Team1,2017
+Florida,84,Wisconsin,83,Team1,2017
+Furman,79,Campbell,64,Team1,2017
+St Peter's,49,Texas St,44,Team1,2017
+Gonzaga,83,Xavier,59,Team1,2017
+Oregon,74,Kansas,60,Team1,2017
+UMBC,80,Liberty,68,Team1,2017
+South Carolina,77,Florida,70,Team1,2017
+TAM C. Christi,78,PFW,62,Team1,2017
+North Carolina,75,Kentucky,73,Team1,2017
+Coastal Car,91,Wyoming,81,Team1,2017
+Georgia Tech,76,CS Bakersfield,61,Team1,2017
+TCU,68,UCF,53,Team1,2017
+TAM C. Christi,79,UMBC,61,Team1,2017
+Wyoming,81,Coastal Car,57,Team1,2017
+St Peter's,77,Furman,51,Team1,2017
+TCU,88,Georgia Tech,56,Team1,2017
+Wyoming,83,Coastal Car,59,Team1,2017
+St Peter's,62,TAM C. Christi,61,Team1,2017
+Gonzaga,77,South Carolina,73,Team1,2017
+North Carolina,77,Oregon,76,Team1,2017
+North Carolina,71,Gonzaga,65,Team1,2017
+Radford,71,LIU Brooklyn,61,Team1,2018
+Baylor,80,Wagner,59,Team1,2018
+Louisville,66,N Kentucky,58,Team1,2018
+MTSU,91,Vermont,64,Team1,2018
+WKU,79,Boston College,62,Team1,2018
+Oklahoma St,80,FL Gulf Coast,68,Team1,2018
+Notre Dame,84,Hampton,63,Team1,2018
+Utah Valley,87,E Washington,65,Team1,2018
+St Bonaventure,65,UCLA,58,Team1,2018
+St Mary's CA,89,SE Louisiana,45,Team1,2018
+Oregon,99,Rider,86,Team1,2018
+USC,103,UNC Asheville,98,Team1,2018
+TX Southern,64,NC Central,46,Team1,2018
+LSU,84,Louisiana,76,Team1,2018
+Marquette,67,Harvard,60,Team1,2018
+E Michigan,83,Niagara,65,Team1,2018
+Campbell,97,Miami OH,87,Team1,2018
+Jacksonville St,80,Canisius,78,Team1,2018
+Penn St,63,Temple,57,Team1,2018
+IL Chicago,84,St Francis PA,61,Team1,2018
+UT San Antonio,76,Lamar,69,Team1,2018
+North Texas,90,South Dakota,77,Team1,2018
+New Orleans,77,UTRGV,74,Team1,2018
+Mississippi St,66,Nebraska,59,Team1,2018
+Utah,69,UC Davis,59,Team1,2018
+Syracuse,60,Arizona St,56,Team1,2018
+Stanford,86,BYU,83,Team1,2018
+Washington,77,Boise St,74,Team1,2018
+San Francisco,72,Colgate,68,Team1,2018
+Mercer,78,Grand Canyon,73,Team1,2018
+Cent Arkansas,92,Seattle,90,Team1,2018
+Rhode Island,83,Oklahoma,78,Team1,2018
+Tennessee,73,Wright St,47,Team1,2018
+Gonzaga,68,UNC Greensboro,64,Team1,2018
+Kansas,76,Penn,60,Team1,2018
+Duke,89,Iona,67,Team1,2018
+Loyola-Chicago,64,Miami FL,62,Team1,2018
+Ohio St,81,S Dakota St,73,Team1,2018
+Seton Hall,94,NC State,83,Team1,2018
+Kentucky,78,Davidson,73,Team1,2018
+Houston,67,San Diego St,65,Team1,2018
+Texas Tech,70,SF Austin,60,Team1,2018
+Austin Peay,80,ULM,66,Team1,2018
+Alabama,86,Virginia Tech,83,Team1,2018
+Buffalo,89,Arizona,68,Team1,2018
+Michigan,61,Montana,47,Team1,2018
+Villanova,87,Radford,61,Team1,2018
+Florida,77,St Bonaventure,62,Team1,2018
+Texas A&M,73,Providence,69,Team1,2018
+Purdue,74,CS Fullerton,48,Team1,2018
+Marshall,81,Wichita St,75,Team1,2018
+Cincinnati,68,Georgia St,53,Team1,2018
+North Carolina,84,Lipscomb,66,Team1,2018
+Butler,79,Arkansas,62,Team1,2018
+West Virginia,85,Murray St,68,Team1,2018
+Nevada,87,Texas,83,Team1,2018
+Kansas St,69,Creighton,59,Team1,2018
+Michigan St,82,Bucknell,78,Team1,2018
+Auburn,62,Col Charleston,58,Team1,2018
+UMBC,74,Virginia,54,Team1,2018
+Florida St,67,Missouri,54,Team1,2018
+Clemson,79,New Mexico St,68,Team1,2018
+C Michigan,98,Wofford,94,Team1,2018
+Xavier,102,TX Southern,83,Team1,2018
+Syracuse,57,TCU,52,Team1,2018
+Penn St,73,Notre Dame,63,Team1,2018
+San Diego,67,Portland St,64,Team1,2018
+Villanova,81,Alabama,58,Team1,2018
+Duke,87,Rhode Island,62,Team1,2018
+Kentucky,95,Buffalo,75,Team1,2018
+Loyola-Chicago,63,Tennessee,62,Team1,2018
+Kansas,83,Seton Hall,79,Team1,2018
+Gonzaga,90,Ohio St,84,Team1,2018
+Texas Tech,69,Florida,66,Team1,2018
+Michigan,64,Houston,63,Team1,2018
+N Colorado,81,Drake,72,Team1,2018
+Mississippi St,78,Baylor,77,Team1,2018
+Marquette,101,Oregon,92,Team1,2018
+Louisville,84,MTSU,68,Team1,2018
+Purdue,76,Butler,73,Team1,2018
+Syracuse,55,Michigan St,53,Team1,2018
+Texas A&M,86,North Carolina,65,Team1,2018
+Nevada,75,Cincinnati,73,Team1,2018
+Clemson,84,Auburn,53,Team1,2018
+Kansas St,50,UMBC,43,Team1,2018
+Florida St,75,Xavier,70,Team1,2018
+West Virginia,94,Marshall,71,Team1,2018
+Jacksonville St,80,Cent Arkansas,59,Team1,2018
+San Francisco,78,Utah Valley,73,Team1,2018
+Oklahoma St,71,Stanford,65,Team1,2018
+Campbell,71,New Orleans,69,Team1,2018
+North Texas,96,Mercer,67,Team1,2018
+Utah,95,LSU,71,Team1,2018
+St Mary's CA,85,Washington,81,Team1,2018
+WKU,79,USC,75,Team1,2018
+Sam Houston St,69,E Michigan,62,Team1,2018
+Penn St,85,Marquette,80,Team1,2018
+Mississippi St,79,Louisville,56,Team1,2018
+IL Chicago,83,Austin Peay,81,Team1,2018
+N Colorado,86,San Diego,75,Team1,2018
+North Texas,90,Jacksonville S,68,Team1,2018
+WKU,92,Oklahoma St,84,Team1,2018
+Utah,67,St Mary's CA,58,Team1,2018
+Loyola-Chicago,69,Nevada,68,Team1,2018
+Michigan,99,Texas A&M,72,Team1,2018
+Kansas St,61,Kentucky,58,Team1,2018
+Florida St,75,Gonzaga,60,Team1,2018
+Sam Houston St,76,UT San Antonio,69,Team1,2018
+San Francisco,65,Campbell,62,Team1,2018
+Kansas,80,Clemson,76,Team1,2018
+Villanova,90,West Virginia,78,Team1,2018
+Duke,69,Syracuse,65,Team1,2018
+Texas Tech,78,Purdue,65,Team1,2018
+Liberty,84,C Michigan,71,Team1,2018
+Loyola-Chicago,78,Kansas St,62,Team1,2018
+Michigan,58,Florida St,54,Team1,2018
+Villanova,71,Texas Tech,59,Team1,2018
+Kansas,85,Duke,81,Team1,2018
+San Francisco,72,North Texas,62,Team1,2018
+Utah,69,WKU,64,Team1,2018
+Penn St,75,Mississippi St,60,Team1,2018
+IL Chicago,67,Liberty,51,Team1,2018
+North Texas,69,San Francisco,55,Team1,2018
+N Colorado,99,Sam Houston St,80,Team1,2018
+Penn St,82,Utah,66,Team1,2018
+North Texas,88,San Francisco,77,Team1,2018
+N Colorado,76,IL Chicago,71,Team1,2018
+Villanova,95,Kansas,79,Team1,2018
+Michigan,69,Loyola-Chicago,57,Team1,2018
+Villanova,79,Michigan,62,Team1,2018
